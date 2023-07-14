@@ -1,0 +1,27 @@
+.containerConvert {
+  border: 1px solid black;
+  width: 500px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.rowConvert {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+  margin-right: 120px;
+}
+.rowLabel {
+  margin-right: 10px;
+}
+select {
+  width: 200px;
+}
+.inputConvert {
+  width: 200px;
+  box-sizing: border-box;
+}
+button {
+  margin-top: 10px;
+}

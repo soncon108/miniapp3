@@ -1,0 +1,19 @@
+.containerPomodoro {
+  border: 1px solid black;
+  width: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+
+}
+.buttonThree {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.buttonRelax {
+  margin-left: 10px;
+  margin-right: 10px;
+}
